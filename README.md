@@ -51,31 +51,22 @@ This project demonstrates proficiency in \*\*Data Engineering \& Automation (Pyt
 └── README.md                             # Repository landing page and project report
 
 
-\## 📌 Screenshots
+## 📌 Screenshots
 
 Sales by Category
-
-<img width="596" height="388" alt="Sales" src="https://github.com/user-attachments/assets/bac22e32-ef87-4465-9961-bcc13d41c675" />
+![Sales](output/Sales.png)
 
 Sales by State
-
-<img width="873" height="358" alt="Sales by State" src="https://github.com/user-attachments/assets/f3693915-2430-4d4c-b30d-87d3e11b35ef" />
-
+![Sales by State](output/Sales%20by%20State.png)
 
 Monthly Sales Trends
-
-<img width="887" height="332" alt="Monthl sales trend" src="https://github.com/user-attachments/assets/d7fcc12a-795b-43ab-8609-2c95c7d021c9" />
-
+![Monthl sales trend](output/Monthl%20sales%20trend.png)
 
 Order By Payment
-
-<img width="613" height="370" alt="Order by Payment" src="https://github.com/user-attachments/assets/524531b2-02e9-48dc-be12-78b2dbb4324a" />
-
-
+![Order by Payment](output/Order%20by%20Payment.png)
 
 List of 10 Products
-
-<img width="841" height="391" alt="Products 10" src="https://github.com/user-attachments/assets/f89c9eb1-2a28-496d-83e6-c9c24d6c2686" />
+![Products 10](output/Products%2010.png)
 
 
 
