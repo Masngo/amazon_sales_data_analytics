@@ -1,10 +1,22 @@
-\# 📊 Amazon Sales Data Analytics \& Interactive Executive Dashboard
+# 📊 Amazon Sales Data Analytics & Interactive Executive Dashboard
 
+## 📌 Project Overview
+This repository contains a comprehensive end-to-end data analytics suite assessing transaction-level logs from the Amazon platform. Based on an empirical analysis of **100,000 unique records**, the business monitored a total top-line gross revenue of **$91,825,647.92** with an Average Order Value (AOV) of **$918.26** per cart check-out session.
 
+This project showcases a unified pipeline marrying **Data Engineering Automation (Python)** with **Interactive Business Intelligence Frameworks (Microsoft Excel)**.
 
-\## 📌 Project Overview
+> **⚠️ Data Architecture Constraint Note:** The primary source transaction database lacks an explicitly given cost layer. Profit tracking variables and margin-bleed curves presented inside the data layers utilize an estimated operational cost multiplier (calculated at approximately 15% net optimization proxy yields) to evaluate transactional health without disrupting systemic core reporting metrics.
 
-This repository contains a comprehensive end-to-end data analytics project evaluating transaction-level sales logs from the Amazon platform. Utilizing an empirical analysis of \*\*100,000 distinct orders\*\*, the business generated a total top-line revenue of \*\*$28,954,583.56\*\* with an Average Order Value (AOV) of \*\*$289.55\*\* per transaction. 
+---
+
+## 🛠️ Repository Layout
+```text
+├── excel_sheet/
+│   └── Amazon Dashboard.xlsx            # Completed interactive dashboard
+├── notebooks/
+│   └── Amazon_Sales_Analysis.ipynb       # Python data cleaning and advanced statistical exploratory plots
+├── output/                              # Exported static data visualizations (Linked below)
+└── README.md                             # Multi-dimensional executive project report
 
 
 
