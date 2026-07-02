@@ -36,9 +36,5 @@ This project demonstrates proficiency in \*\*Data Engineering \& Automation (Pyt
 
 │   └── Amazon\_Sales\_Dashboard\_Final.xlsx # The generated interactive Excel file
 
-├── scripts/
-
-│   └── generate\_workbook.py              # Programmatic automation engine script
-
 └── README.md                             # Repository landing page and project report
 
