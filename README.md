@@ -1,10 +1,22 @@
-\# 📊 Amazon Sales Data Analytics \& Interactive Executive Dashboard
+# 📊 Amazon Sales Data Analytics & Interactive Executive Dashboard
 
+## 📌 Project Overview
+This repository contains a comprehensive end-to-end data analytics suite assessing transaction-level logs from the Amazon platform. Based on an empirical analysis of **100,000 unique records**, the business monitored a total top-line gross revenue of **$91,825,647.92** with an Average Order Value (AOV) of **$918.26** per cart check-out session.
 
+This project showcases a unified pipeline marrying **Data Engineering Automation (Python)** with **Interactive Business Intelligence Frameworks (Microsoft Excel)**.
 
-\## 📌 Project Overview
+> **⚠️ Data Architecture Constraint Note:** The primary source transaction database lacks an explicitly given cost layer. Profit tracking variables and margin-bleed curves presented inside the data layers utilize an estimated operational cost multiplier (calculated at approximately 15% net optimization proxy yields) to evaluate transactional health without disrupting systemic core reporting metrics.
 
-This repository contains a comprehensive end-to-end data analytics project evaluating transaction-level sales logs from the Amazon platform. Utilizing an empirical analysis of \*\*100,000 distinct orders\*\*, the business generated a total top-line revenue of \*\*$28,954,583.56\*\* with an Average Order Value (AOV) of \*\*$289.55\*\* per transaction. 
+---
+
+## 🛠️ Repository Layout
+```text
+├── excel_sheet/
+│   └── Amazon Dashboard.xlsx            # Completed interactive dashboard
+├── notebooks/
+│   └── Amazon_Sales_Analysis.ipynb       # Python data cleaning and advanced statistical exploratory plots
+├── output/                              # Exported static data visualizations (Linked below)
+└── README.md                             # Multi-dimensional executive project report
 
 
 
@@ -39,33 +51,27 @@ This project demonstrates proficiency in \*\*Data Engineering \& Automation (Pyt
 └── README.md                             # Repository landing page and project report
 
 
-\## 📌 Screenshots
+## 📌 Screenshots
 
 Sales by Category
-
-<img width="596" height="388" alt="Sales" src="https://github.com/user-attachments/assets/bac22e32-ef87-4465-9961-bcc13d41c675" />
+<img src="output/Sales.png" width="600" alt="Sales by Category" />
 
 Sales by State
-
-<img width="873" height="358" alt="Sales by State" src="https://github.com/user-attachments/assets/f3693915-2430-4d4c-b30d-87d3e11b35ef" />
-
+<img src="output/Sales by State.png" width="600" alt="Sales by State" />
 
 Monthly Sales Trends
-
-<img width="887" height="332" alt="Monthl sales trend" src="https://github.com/user-attachments/assets/d7fcc12a-795b-43ab-8609-2c95c7d021c9" />
-
+<img src="output/Monthl sales trend.png" width="600" alt="Monthly Sales Trends" />
 
 Order By Payment
-
-<img width="613" height="370" alt="Order by Payment" src="https://github.com/user-attachments/assets/524531b2-02e9-48dc-be12-78b2dbb4324a" />
-
-
+<img src="output/Order by Payment.png" width="600" alt="Order By Payment" />
 
 List of 10 Products
+<img src="output/Products 10.png" width="600" alt="List of 10 Products" />
 
-<img width="841" height="391" alt="Products 10" src="https://github.com/user-attachments/assets/f89c9eb1-2a28-496d-83e6-c9c24d6c2686" />
+## 💻 Development Environment & Tooling
+The data architecture, markdown summaries, and structural file pipelines are configured locally using an integrated development environment (IDE) featuring advanced predictive agent layers for codebase onboarding.
 
-
+<img src="output/VS Code - python code.jpg" width="800" alt="VS Code IDE Development Environment" />
 
 
 
