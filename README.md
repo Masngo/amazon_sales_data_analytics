@@ -54,22 +54,19 @@ This project demonstrates proficiency in \*\*Data Engineering \& Automation (Pyt
 ## 📌 Screenshots
 
 Sales by Category
-![Sales](output/Sales.png)
+<img src="output/Sales.png" width="600" alt="Sales by Category" />
 
 Sales by State
-![Sales by State](output/Sales%20by%20State.png)
+<img src="output/Sales by State.png" width="600" alt="Sales by State" />
 
 Monthly Sales Trends
-![Monthl sales trend](output/Monthl%20sales%20trend.png)
+<img src="output/Monthl sales trend.png" width="600" alt="Monthly Sales Trends" />
 
 Order By Payment
-![Order by Payment](output/Order%20by%20Payment.png)
+<img src="output/Order by Payment.png" width="600" alt="Order By Payment" />
 
 List of 10 Products
-![Products 10](output/Products%2010.png)
-
-
-
+<img src="output/Products 10.png" width="600" alt="List of 10 Products" />
 
 
 
