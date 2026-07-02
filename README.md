@@ -47,20 +47,24 @@ Sales by Category
 
 Sales by State
 
-<img width="873" height="358" alt="Sales by State" src="https://github.com/user-attachments/assets/1e8745ce-91c4-4be6-9de5-5f93be45a771" />
+<img width="873" height="358" alt="Sales by State" src="https://github.com/user-attachments/assets/f3693915-2430-4d4c-b30d-87d3e11b35ef" />
+
 
 Monthly Sales Trends
 
-<img width="887" height="332" alt="Monthl sales trend" src="https://github.com/user-attachments/assets/751c4b60-107b-4d0c-8a55-dab7be2c6c8d" />
+<img width="887" height="332" alt="Monthl sales trend" src="https://github.com/user-attachments/assets/d7fcc12a-795b-43ab-8609-2c95c7d021c9" />
+
 
 Order By Payment
 
-<img width="613" height="370" alt="Order by Payment" src="https://github.com/user-attachments/assets/04abd17e-59bd-4bee-aa9c-a050d15042b9" />
+<img width="613" height="370" alt="Order by Payment" src="https://github.com/user-attachments/assets/524531b2-02e9-48dc-be12-78b2dbb4324a" />
+
 
 
 List of 10 Products
 
-<img width="841" height="391" alt="Products 10" src="https://github.com/user-attachments/assets/a3f59b1f-9bb8-4173-a5b4-5cdb727c30ec" />
+<img width="841" height="391" alt="Products 10" src="https://github.com/user-attachments/assets/f89c9eb1-2a28-496d-83e6-c9c24d6c2686" />
+
 
 
 
