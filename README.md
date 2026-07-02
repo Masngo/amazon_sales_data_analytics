@@ -38,3 +38,35 @@ This project demonstrates proficiency in \*\*Data Engineering \& Automation (Pyt
 
 └── README.md                             # Repository landing page and project report
 
+
+\## 📌 Screenshots
+
+Sales by Category
+
+<img width="596" height="388" alt="Sales" src="https://github.com/user-attachments/assets/bac22e32-ef87-4465-9961-bcc13d41c675" />
+
+Sales by State
+
+<img width="873" height="358" alt="Sales by State" src="https://github.com/user-attachments/assets/1e8745ce-91c4-4be6-9de5-5f93be45a771" />
+
+Monthly Sales Trends
+
+<img width="887" height="332" alt="Monthl sales trend" src="https://github.com/user-attachments/assets/751c4b60-107b-4d0c-8a55-dab7be2c6c8d" />
+
+Order By Payment
+
+<img width="613" height="370" alt="Order by Payment" src="https://github.com/user-attachments/assets/04abd17e-59bd-4bee-aa9c-a050d15042b9" />
+
+
+List of 10 Products
+
+<img width="841" height="391" alt="Products 10" src="https://github.com/user-attachments/assets/a3f59b1f-9bb8-4173-a5b4-5cdb727c30ec" />
+
+
+
+
+
+
+
+
+
