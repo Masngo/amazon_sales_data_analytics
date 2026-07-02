@@ -68,7 +68,10 @@ Order By Payment
 List of 10 Products
 <img src="output/Products 10.png" width="600" alt="List of 10 Products" />
 
-<img width="793" height="664" alt="image" src="https://github.com/user-attachments/assets/dc891aef-773d-4281-9a62-aafcca038d59" />
+## 💻 Development Environment & Tooling
+The data architecture, markdown summaries, and structural file pipelines are configured locally using an integrated development environment (IDE) featuring advanced predictive agent layers for codebase onboarding.
+
+<img src="output/VS Code - python code.jpg" width="800" alt="VS Code IDE Development Environment" />
 
 
 
